@@ -1,6 +1,6 @@
 # HeroesOfPymoli
 
-Homework deposit, the formatting seems to be affected on github compare to my jupyer notebook. 
+Homework deposit, the formatting seems to be affected on github compared to my jupyer notebook. 
 
 You can use this dropbox link to visualize it directly in jupyter notebook :
 
